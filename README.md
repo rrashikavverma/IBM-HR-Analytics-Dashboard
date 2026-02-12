@@ -1,1 +1,2 @@
 # IBM-HR-Analytics-Dashboard
+Designed and developed an interactive Power BI dashboard to analyze employee attrition, job satisfaction, performance ratings, salary trends, and workforce demographics using IBM HR datasets. Conducted data cleaning, transformation, and modeling with Power Query and DAX. Delivered clear KPIs, visual insights, and predictive trends to support strategic HR planning, retention strategies, and data-driven decision-making.
